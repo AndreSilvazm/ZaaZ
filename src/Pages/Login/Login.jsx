@@ -30,7 +30,7 @@ function Login() {
 
             <h1>Relatórios IXC</h1>
             <div className="col-6 order-2">
-                <h1 className=''>Faça o Login</h1>
+                <h1 className=''>Faça o Login - Login mudou</h1>
 
               <div className='Login_Formulario'>
 
